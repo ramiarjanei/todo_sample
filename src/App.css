@@ -1,0 +1,16 @@
+.App__header {
+  background-color: #000;
+  color: #fff;
+  margin: 0;
+  padding: 25px;
+}
+
+.App__title {
+  font-size: 2em;
+}
+.btn-add-task{
+  margin-left: 50%;
+  margin-top: 2%;
+  height: 8vh;
+  background-color: aliceblue;
+}
